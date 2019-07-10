@@ -4,7 +4,7 @@ This plugin will [restore the seamless style](https://github.com/AdvancedCustomF
 
 By default ACF will display Field Groups with the standard WP metabox styling when using the Gutenberg editor.
 
-![](/Users/cyee/Sites/wordpress/wp-content/plugins/cmyee-acf-seamless/screenshot.png)
+![Standard vs Seamless](screenshot.png?raw=true)
 
 ## Requirements
 - [WordPress 5.2+](https://wordpress.org/download/)
