@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ACF Seamless
-Description: Restore the seamless style to ACF field groups when using the Gutenberg editor
+Description: Restore the seamless style to ACF Field Groups when using the Gutenberg editor.
 Version:     1.0.0
 Author:      Chris Yee
 Author URI:  https://chrisyee.ca
