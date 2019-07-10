@@ -5,8 +5,7 @@ Description: Restore the seamless style to ACF Field Groups when using the Guten
 Version:     1.0.0
 Author:      Chris Yee
 Author URI:  https://chrisyee.ca
-License:     GPL3
-License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+License:     MIT
 Text Domain: cmyee-acf-seamless
 */
 
