@@ -1,25 +1,29 @@
-document.addEventListener("DOMContentLoaded", function(){
+(function(){
 
-	if( typeof acf !== 'undefined' ){
-		//get field groups
-		var fields = acf.get('postboxes');
+	document.addEventListener("DOMContentLoaded", function(){
 
-		if( fields ){
-			for ( i = 0; i < fields.length; i++ ) {
+		if( typeof acf !== 'undefined' ){
+			//get field groups
+			var fields = acf.get('postboxes');
 
-				//get field group id
-				var id = fields[i].id;
+			if( fields ){
+				for ( i = 0; i < fields.length; i++ ) {
 
-				//get field group style (default or seamless)
-				var style = fields[i].style;
+					//get field group id
+					var id = fields[i].id;
 
-				//check if field group has seamless style set
-				if( style == 'seamless' ){
-					//apply seamless class to field group
-					document.getElementById(id).classList.add('seamless');
+					//get field group style (default or seamless)
+					var style = fields[i].style;
+
+					//check if field group has seamless style set
+					if( style == 'seamless' ){
+						//apply seamless class to field group
+						document.getElementById(id).classList.add('seamless');
+					}
 				}
 			}
 		}
-	}
 
-});
+	});
+
+})();
