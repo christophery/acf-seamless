@@ -34,9 +34,3 @@ This plugin will have no visual effect if you are using the [Classic Editor](htt
 
 ### I need help with Advanced Custom Fields!
 For questions regarding [Advanced Custom Fields](https://www.advancedcustomfields.com/), please [view their support page](https://www.advancedcustomfields.com/support/) or [contact them](https://www.advancedcustomfields.com/contact/).
-
-## Changelog
-
-**1.0.0**
-
-Initial Release
