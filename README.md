@@ -1,6 +1,6 @@
 # ACF Seamless
 
-This plugin will [restore the seamless style](https://github.com/AdvancedCustomFields/acf/issues/193#issuecomment-501916061) to ACF Field Groups when using the Gutenberg editor.
+ACF Seamless is a WordPress plugin that will [restore the seamless style](https://github.com/AdvancedCustomFields/acf/issues/193#issuecomment-501916061) to ACF Field Groups when using the Gutenberg editor.
 
 By default [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/) will display Field Groups with the standard WordPress metabox styling when using the Gutenberg editor.
 
@@ -11,7 +11,6 @@ By default [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/)
 </p>
 
 ## Requirements
-- [WordPress 5.2+](https://wordpress.org/download/)
 - [Advanced Custom Fields 5.8+](https://www.advancedcustomfields.com/)
 - [Gutenberg editor](https://wordpress.org/gutenberg/)
 
