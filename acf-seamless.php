@@ -7,7 +7,7 @@ Author:      Chris Yee
 Author URI:  https://chrisyee.ca
 License:     GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-Text Domain: cmyee-acf-seamless
+Text Domain: acf-seamless
 */
 
 /**
@@ -15,7 +15,7 @@ Text Domain: cmyee-acf-seamless
  */
 
 function acf_seamless_register_js() {
-    wp_enqueue_script( 'cmyee-acf-seamless', plugins_url( 'js/acf-seamless.js', __FILE__ ) );
+    wp_enqueue_script( 'acf-seamless', plugins_url( 'js/acf-seamless.js', __FILE__ ) );
 }
 
 add_action( 'admin_enqueue_scripts', 'acf_seamless_register_js' );
