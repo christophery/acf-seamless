@@ -18,7 +18,7 @@
 					//check if field group has seamless style set
 					if( style == 'seamless' ){
 						//apply seamless class to field group
-						document.getElementById(id).classList.add('seamless');
+						document.getElementById(id).classList.add('seamless', 'acf-seamless');
 					}
 				}
 			}
