@@ -4,7 +4,7 @@ Contributors: cmyee
 Tags: Advanced Custom Fields, ACF, seamless, restore, style
 Requires at least: 5.2
 Tested up to: 5.5
-Stable tag: 1.0.1
+Stable tag: 1.1
 Requires PHP: 5.6
 License: GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
